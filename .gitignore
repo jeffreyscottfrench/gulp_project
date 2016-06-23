@@ -1,0 +1,6 @@
+*.log
+app/site/images/
+dist/
+node_modules/
+package.json
+.htaccess
