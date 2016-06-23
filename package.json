@@ -1,0 +1,33 @@
+{
+  "name": "gulp_project",
+  "version": "1.0.0",
+  "description": "tutorial projcet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyscottfrench/gulp_project.git"
+  },
+  "keywords": [
+    "Tutorial"
+  ],
+  "author": "Jeffrey Scott French",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreyscottfrench/gulp_project/issues"
+  },
+  "homepage": "https://github.com/jeffreyscottfrench/gulp_project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.1.0",
+    "run-sequence": "^1.2.1"
+  }
+}
